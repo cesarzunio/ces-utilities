@@ -1,0 +1,7 @@
+{
+    "name": "ces.utilities",
+    "version": "1.0.0",
+    "displayName": "Ces Utilities",
+    "description": "Utility functions",
+    "unity": "2022.3"
+}
